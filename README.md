@@ -1,0 +1,2 @@
+# Amon-kibet
+github solution
